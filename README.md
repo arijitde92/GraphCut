@@ -7,12 +7,12 @@ Please visit [https://julie-jiang.github.io/image-segmentation/](https://julie-j
 
 ## Usage
 ``` 
-python imagesegmentation.py filename
+python graphcut.py filename
 ```
 Run
 <br>
 ```
-python imagesegmentation.py -h
+python graphcut.py -h
 ```
 for information on other command line arguments and to choose between the type of optimization technique: (Augmenting Path or Push Relabel)
 <br>
